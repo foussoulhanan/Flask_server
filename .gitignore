@@ -1,0 +1,13 @@
+#virtual environement
+venv/
+
+#Flask
+instance/*
+!instance/.gitignore
+.webassets-cache
+
+# Flask.Python Slack
+# Byte-compiled / optimized /DLL files
+__pycache__/
+*.py[cod]
+*$py.class
